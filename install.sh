@@ -137,6 +137,7 @@ _install $PWD/ssh_rc.sh $HOME/.ssh/rc
 #_install $PWD/xinitrc $HOME/.xinitrc
 _install $PWD/inputrc $HOME/.inputrc
 _install_dir $PWD/vim $HOME/.vim
+_install_dir $PWD/tmux $HOME/.tmux
 #_install_dir $PWD/screenlayout $HOME/.screenlayout
 
 # Adding bash sub-config:
